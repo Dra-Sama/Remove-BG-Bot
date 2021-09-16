@@ -40,9 +40,8 @@
   
 ## Deploy
 
-<details>
-  <summary><b>Deploy on Heroku</b></summary>
-<br/>
+Deploy on Heroku
+
 
 <p align="left">
   <a href="https://heroku.com/deploy?template=https://github.com/HTechMediaYT/Remove-BG-Bot">
