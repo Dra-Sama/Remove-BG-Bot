@@ -42,18 +42,9 @@
 
 Deploy on Heroku
 
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/HTechMediaYT/Remove-BG-Bot/)
 
-<p align="left">
-  <a href="https://heroku.com/deploy?template=https://github.com/HTechMediaYT/Remove-BG-Bot">
-     <img height="30px" src="https://img.shields.io/badge/Deploy%20To%20Heroku-blueviolet?style=for-the-badge&logo=heroku">
-  </a>
-</p>
-
-</details>
-
-<details>
-  <summary><b>Deploy in your vps</b></summary>
-<br/>
+Deploy in your vps
 
 ```sh
 git clone https://github.com/HTechMediaYT/Remove-BG-Bot
