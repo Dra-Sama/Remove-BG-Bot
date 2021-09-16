@@ -4,65 +4,66 @@
 </p>
 <p align="center">
   <a href="https://github.com/HTechMediaYT/Remove-BG-Bot/stars">
-    <img src="https://img.shields.io/github/stars/HTechMediaYT/Remove-BG-Bot?label=Star&style=social">
-
+    <img src="https://img.shields.io/github/stars/HTechMediaYT/Remove-BG-Bot?label=Star&style=social"
   </a>
   
   <a href="https://github.com/HTechMediaYT/Remove-BG-Bot/fork">
     <img src="https://img.shields.io/github/forks/HTechMediaYT/Remove-BG-Bot?label=Fork&style=social">
+  </a>  
 
+---
+    
+<p align="center">
+  <a href="https://www.youtube.com/channel/UCrAM4Fg0zn7uLgAAfII-SWQ">
+    <img src="https://img.shields.io/badge/youtube-grey?style=for-the-badge&logo=youtube"/>
+  </a>
+  <a href="https://github.com/HTechMediaYT">
+    <img src="https://img.shields.io/github/followers/HTechMediaYT?label=GitHub&logo=github&style=for-the-badge&color=blue"/>
+  </a>  
+</p>  
+<p align="center">  
+  <a href="https://instagram.com/h_tech_media">
+    <img src="https://img.shields.io/badge/Instagram-grey?style=for-the-badge&logo=instagram"/>
+  </a>
+  <a href="https://www.facebook.com/HTechMediaYT">
+    <img src="https://img.shields.io/badge/facebook-grey?style=for-the-badge&logo=facebook"/>
+  </a> 
+  <a href="https://telegram.me/HTechMedia">
+    <img src="https://img.shields.io/badge/Telegram-grey?style=for-the-badge&logo=telegram"/>
+  </a>
+  <a href="https://telegram.me/HTechMediaSupport">
+    <img src="https://img.shields.io/badge/Support-grey?style=for-the-badge&logo=telegram"/>
   </a>  
 </p>
-<p align="center">
-  <a href = "https://telegram.dog/HTechMedia"><img src="https://img.shields.io/badge/HTechMedia-TG--Channel-green?style=for-the-badge&logo=telegram"></a>
-  <a href = "https://telegram.dog/HTechMediaSupport"><img src="https://img.shields.io/badge/HTechMedia-TG--Support-orange?style=for-the-badge&logo=telegram"></a>
 
-  </a>  
+---    
   
-  </a>  
-</p>
-<p align="center">
-  <a href = "http://youtube.com/c/HTechMedia/subscribe"><img src="https://img.shields.io/badge/HTechMedia-Youtube-red?style=for-the-badge&logo=youtube"></a>
-  <a href = "https://github.com/HTechMediaYT/Remove-BG-Bot/blob/main/LICENSE"><img src="https://img.shields.io/badge/License-MIT-blue?style=flat"></a>
-  <a href = "https://github.com/HTechMediaYT/Remove-BG-Bot"><img src="https://badges.frapsoft.com/os/v2/open-source.svg?v=103"></a>
+## Deploy
 
-  </a>  
-  
-  
-  
-  
-  
-  
-  
-  
+<details>
+  <summary><b>Deploy on Heroku</b></summary>
+<br/>
+
+<p align="left">
+  <a href="https://heroku.com/deploy?template=https://github.com/HTechMediaYT/Remove-BG-Bot">
+     <img height="30px" src="https://img.shields.io/badge/Deploy%20To%20Heroku-blueviolet?style=for-the-badge&logo=heroku">
   </a>
 </p>
-<p align="center">
-Click This Photo To Watch Youtube Tutorial Video⬇
 
-  </a>
+</details>
+
+<details>
+  <summary><b>Deploy in your vps</b></summary>
+<br/>
+
+```sh
+git clone https://github.com/HTechMediaYT/Remove-BG-Bot
+cd Remove-BG-Bot
+pip3 install -r requirements.txt
+# <Create Variables appropriately>
+python3 main.py
+```  
   
- 
-  </a>
-</p>
-<p align="center">
-<a href = "https://www.youtube.com"><img src="https://telegra.ph/file/267f04ca3df7751883b7f.jpg" width="300px"></a>
-
-  </a>
-
-
-
-### A photo background remover telegram bot with pyrogram framework.
-
-
-
-## Deploy to Heroku👇
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/HTechMediaYT/Remove-BG-Bot)
-
-  </a>
-
-
-
 ## Configs
 
 * `API_HASH` API Hash from [my.telegram.org](https://my.telegram.org/)
@@ -72,8 +73,7 @@ Click This Photo To Watch Youtube Tutorial Video⬇
 * `BOT_TOKEN` Bot token from [@BotFather](https://telegram.dog/BotFather)
 
 * `REMOVEBG_API` Watch Tutorial Video [In Youtube](https://www.youtube.com)
-
-
+  
 ### Note
 
 ```
@@ -81,19 +81,19 @@ Contributions are welcomed, But Kanging and editing a few lines wont make you a 
 Fork the repo, Do not Import code.
 
 ```
-
+  
 ```
 LEGAL DISCLAIMER
 
 Developer or his team won't be liable for any loss caused by MISUSE of this Script.
 This Bot is Indended to be used only for Educational Purposes.
 
-```
-
+```  
+  
 ## Credits
-
-[![HTechMediaYT](https://img.shields.io/badge/HTechMedia-Youtube-red?style=for-the-badge&logo=youtube)](http://youtube.com/c/HTechMedia/subscribe)
-
-
-#### THANK YOU
-
+  
+- [Fayas Noushad](https://github.com/FayasNoushad)
+- [Pyrogram](https://github.com/pyrogram/pyrogram)
+  
+<p align="center">  
+##Made With ❤ By [@HTechMedia](https://telegram.dog/HTechMedia)
