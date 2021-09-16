@@ -85,5 +85,5 @@ This Bot is Indended to be used only for Educational Purposes.
 - [Fayas Noushad](https://github.com/FayasNoushad)
 - [Pyrogram](https://github.com/pyrogram/pyrogram)
   
- 
-#### Made With ❤ By [@HTechMedia](https://telegram.dog/HTechMedia)
+<p align="center"> 
+Made With ❤ By [@HTechMedia](https://telegram.dog/HTechMedia)
