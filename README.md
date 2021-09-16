@@ -86,4 +86,4 @@ This Bot is Indended to be used only for Educational Purposes.
 - [Pyrogram](https://github.com/pyrogram/pyrogram)
   
 <p align="center"> 
-Made With ❤ By [@HTechMedia](https://telegram.dog/HTechMedia)
+Made With ❤ By [HTechMedia](https://telegram.dog/HTechMedia)
