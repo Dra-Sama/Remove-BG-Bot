@@ -85,5 +85,12 @@ This Bot is Indended to be used only for Educational Purposes.
 - [Fayas Noushad](https://github.com/FayasNoushad)
 - [Pyrogram](https://github.com/pyrogram/pyrogram)
   
+ ## APIs
+
+- [Remove BG API](https://removebg.com/api)
+- [Unscreen API](https://unscreen.com/api)
+
+---
+
  
 #### Made With ❤ By [@HTechMedia](https://telegram.dog/HTechMedia)
